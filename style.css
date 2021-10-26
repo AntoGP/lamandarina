@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Play&display=swap');
+
+body{
+	margin: 0;
+	font-family: 'Play', sans-serif;
+}
+
+
+nav{
+	background: #D7C1DC;
+}
+.menu{
+	text-align: center;
+	margin: 0;
+}
+.menu li{
+display: inline-block;
+}
+.menu a{
+	text-decoration: none;
+	color: white;
+	padding: 45px;
+	display: block;
+}
+.menu a:hover{
+background: #9b9b9b;
+font-size: 20px;
+}
+.osu{
+	background: 000fff;
+	text-align: center;
+	color: ffffff;
+	overflow: hidden;
+}
+.imagen{
+	height: 800px;
+	 background-image: url(https://c.tenor.com/105SSzB_tNEAAAAC/anime.gif);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+h1
+{
+	font-family: sans-serif;
+	text-align: center;
+	margin-top: 150px;
+	font-size: 150px;
+	font-weight: 800;
+	color: transparent;
+	background-image: url(http://68.media.tumblr.com/378e02b84fdc9289b35a0d2fbe95be77/tumblr_o4z3cfny5G1rg51u5o1_500.gif);
+	background-position: center;
+	-webkit-background-clip: text;
+}
